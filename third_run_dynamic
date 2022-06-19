@@ -1,0 +1,5205 @@
+
+
+Program Begin...
+
+Cycle = 0
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 27.94°C 
+
+Dew point: 24.02
+
+Cycle = 1
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 27.94°C 
+
+Dew point: 24.02
+
+Cycle = 2
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.50%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.12°C 
+
+DS18B20 #2: Temperature: 27.94°C 
+
+Dew point: 24.20
+
+Cycle = 3
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.50%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 27.94°C 
+
+Dew point: 24.20
+
+Cycle = 4
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.40%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 28.00°C 
+
+Dew point: 24.08
+
+
+
+Program Begin...
+
+
+
+Program Begin...
+
+Cycle = 0
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 28.00°C 
+
+Dew point: 24.04
+
+Cycle = 1
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 31.12°C 
+
+DS18B20 #2: Temperature: 28.00°C 
+
+Dew point: 24.04
+
+Cycle = 2
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.00°C 
+
+DS18B20 #2: Temperature: 27.94°C 
+
+Dew point: 24.12
+
+Cycle = 3
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.12°C 
+
+DS18B20 #2: Temperature: 27.81°C 
+
+Dew point: 24.12
+
+Cycle = 4
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 27.62°C 
+
+Dew point: 24.12
+
+Cycle = 5
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 27.44°C 
+
+Dew point: 24.12
+
+Cycle = 6
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 27.19°C 
+
+Dew point: 24.12
+
+Cycle = 7
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 26.87°C 
+
+Dew point: 24.12
+
+Cycle = 8
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 26.50°C 
+
+Dew point: 24.10
+
+Cycle = 9
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 26.12°C 
+
+Dew point: 24.10
+
+Cycle = 10
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.12°C 
+
+DS18B20 #2: Temperature: 25.75°C 
+
+Dew point: 24.10
+
+Cycle = 11
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 25.37°C 
+
+Dew point: 24.10
+
+Cycle = 12
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.30%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 24.87°C 
+
+Dew point: 24.16
+
+Cycle = 13
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.30%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 24.44°C 
+
+Dew point: 24.16
+
+Cycle = 14
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.31°C 
+
+DS18B20 #2: Temperature: 24.06°C 
+
+Dew point: 24.20
+
+Cycle = 15
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.31°C 
+
+DS18B20 #2: Temperature: 23.69°C 
+
+Dew point: 24.20
+
+Cycle = 16
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.37°C 
+
+DS18B20 #2: Temperature: 23.25°C 
+
+Dew point: 24.14
+
+Cycle = 17
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.44°C 
+
+DS18B20 #2: Temperature: 22.87°C 
+
+Dew point: 24.14
+
+Cycle = 18
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.50°C 
+
+DS18B20 #2: Temperature: 22.50°C 
+
+Dew point: 24.10
+
+Cycle = 19
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.56°C 
+
+DS18B20 #2: Temperature: 22.12°C 
+
+Dew point: 24.10
+
+Cycle = 20
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.56°C 
+
+DS18B20 #2: Temperature: 21.69°C 
+
+Dew point: 24.06
+
+Cycle = 21
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.75°C 
+
+DS18B20 #2: Temperature: 21.31°C 
+
+Dew point: 24.06
+
+Cycle = 22
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.75°C 
+
+DS18B20 #2: Temperature: 20.87°C 
+
+Dew point: 24.14
+
+Cycle = 23
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.87°C 
+
+DS18B20 #2: Temperature: 20.50°C 
+
+Dew point: 24.14
+
+Cycle = 24
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 31.94°C 
+
+DS18B20 #2: Temperature: 20.06°C 
+
+Dew point: 24.14
+
+Cycle = 25
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.00°C 
+
+DS18B20 #2: Temperature: 19.75°C 
+
+Dew point: 24.14
+
+Cycle = 26
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.13°C 
+
+DS18B20 #2: Temperature: 19.37°C 
+
+Dew point: 24.12
+
+Cycle = 27
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.19°C 
+
+DS18B20 #2: Temperature: 19.00°C 
+
+Dew point: 24.12
+
+Cycle = 28
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.25°C 
+
+DS18B20 #2: Temperature: 18.62°C 
+
+Dew point: 24.10
+
+Cycle = 29
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.31°C 
+
+DS18B20 #2: Temperature: 18.37°C 
+
+Dew point: 24.10
+
+Cycle = 30
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 18.06°C 
+
+Dew point: 24.14
+
+Cycle = 31
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 17.75°C 
+
+Dew point: 24.14
+
+Cycle = 32
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 17.37°C 
+
+Dew point: 24.20
+
+Cycle = 33
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.20
+
+Cycle = 34
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 16.87°C 
+
+Dew point: 24.22
+
+Cycle = 35
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 16.62°C 
+
+Dew point: 24.22
+
+Cycle = 36
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 16.31°C 
+
+Dew point: 24.04
+
+Cycle = 37
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 16.12°C 
+
+Dew point: 24.04
+
+Cycle = 38
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 15.88°C 
+
+Dew point: 24.02
+
+Cycle = 39
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.60°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 15.69°C 
+
+Dew point: 24.02
+
+Cycle = 40
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.14
+
+Cycle = 41
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 15.31°C 
+
+Dew point: 24.14
+
+Cycle = 42
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.10
+
+Cycle = 43
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.10
+
+Cycle = 44
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 15.13°C 
+
+Dew point: 24.10
+
+Cycle = 45
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.10
+
+Cycle = 46
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.50°C 
+
+DS18B20 #2: Temperature: 15.31°C 
+
+Dew point: 24.10
+
+Cycle = 47
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 15.31°C 
+
+Dew point: 24.10
+
+Cycle = 48
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.50°C 
+
+DS18B20 #2: Temperature: 15.56°C 
+
+Dew point: 24.22
+
+Cycle = 49
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.22
+
+Cycle = 50
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 15.81°C 
+
+Dew point: 24.10
+
+Cycle = 51
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 16.00°C 
+
+Dew point: 24.10
+
+Cycle = 52
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 16.19°C 
+
+Dew point: 24.24
+
+Cycle = 53
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.24
+
+Cycle = 54
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.30%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 16.62°C 
+
+Dew point: 24.16
+
+Cycle = 55
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.30%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.50°C 
+
+DS18B20 #2: Temperature: 16.81°C 
+
+Dew point: 24.16
+
+Cycle = 56
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.14
+
+Cycle = 57
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.20%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.14
+
+Cycle = 58
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 17.25°C 
+
+Dew point: 24.06
+
+Cycle = 59
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 17.31°C 
+
+Dew point: 24.06
+
+Cycle = 60
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 17.37°C 
+
+Dew point: 24.08
+
+Cycle = 61
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 17.25°C 
+
+Dew point: 24.08
+
+Cycle = 62
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.10
+
+Cycle = 63
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 17.06°C 
+
+Dew point: 24.10
+
+Cycle = 64
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.08
+
+Cycle = 65
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 16.81°C 
+
+Dew point: 24.08
+
+Cycle = 66
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.62°C 
+
+Dew point: 24.10
+
+Cycle = 67
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.50°C 
+
+Dew point: 24.10
+
+Cycle = 68
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.31°C 
+
+Dew point: 24.08
+
+Cycle = 69
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 16.19°C 
+
+Dew point: 24.08
+
+Cycle = 70
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 15.94°C 
+
+Dew point: 24.20
+
+Cycle = 71
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 15.81°C 
+
+Dew point: 24.20
+
+Cycle = 72
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 15.69°C 
+
+Dew point: 24.10
+
+Cycle = 73
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 15.50°C 
+
+Dew point: 24.10
+
+Cycle = 74
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.12
+
+Cycle = 75
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.12
+
+Cycle = 76
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 15.38°C 
+
+Dew point: 24.18
+
+Cycle = 77
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.18
+
+Cycle = 78
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 15.56°C 
+
+Dew point: 24.08
+
+Cycle = 79
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.70°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 15.69°C 
+
+Dew point: 24.08
+
+Cycle = 80
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 15.81°C 
+
+Dew point: 24.22
+
+Cycle = 81
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 15.94°C 
+
+Dew point: 24.22
+
+Cycle = 82
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.38°C 
+
+DS18B20 #2: Temperature: 16.12°C 
+
+Dew point: 24.22
+
+Cycle = 83
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.10%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 16.31°C 
+
+Dew point: 24.22
+
+Cycle = 84
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 16.50°C 
+
+Dew point: 24.24
+
+Cycle = 85
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 16.75°C 
+
+Dew point: 24.24
+
+Cycle = 86
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.12
+
+Cycle = 87
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 17.06°C 
+
+Dew point: 24.12
+
+Cycle = 88
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.24
+
+Cycle = 89
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.24
+
+Cycle = 90
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.14
+
+Cycle = 91
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.14
+
+Cycle = 92
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.26
+
+Cycle = 93
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.26
+
+Cycle = 94
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 16.81°C 
+
+Dew point: 24.14
+
+Cycle = 95
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 16.69°C 
+
+Dew point: 24.14
+
+Cycle = 96
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 16.50°C 
+
+Dew point: 24.12
+
+Cycle = 97
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.12
+
+Cycle = 98
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 16.25°C 
+
+Dew point: 24.22
+
+Cycle = 99
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 16.06°C 
+
+Dew point: 24.22
+
+Cycle = 100
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 15.88°C 
+
+Dew point: 24.34
+
+Cycle = 101
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 15.75°C 
+
+Dew point: 24.34
+
+Cycle = 102
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.26
+
+Cycle = 103
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 15.50°C 
+
+Dew point: 24.26
+
+Cycle = 104
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 15.38°C 
+
+Dew point: 24.34
+
+Cycle = 105
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.34
+
+Cycle = 106
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 15.50°C 
+
+Dew point: 24.20
+
+Cycle = 107
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.20
+
+Cycle = 108
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 15.69°C 
+
+Dew point: 24.20
+
+Cycle = 109
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 15.88°C 
+
+Dew point: 24.20
+
+Cycle = 110
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.06°C 
+
+Dew point: 24.18
+
+Cycle = 111
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.25°C 
+
+Dew point: 24.18
+
+Cycle = 112
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.13°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.16
+
+Cycle = 113
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 16.56°C 
+
+Dew point: 24.16
+
+Cycle = 114
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 16.75°C 
+
+Dew point: 24.22
+
+Cycle = 115
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 16.81°C 
+
+Dew point: 24.22
+
+Cycle = 116
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.16
+
+Cycle = 117
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.16
+
+Cycle = 118
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.18
+
+Cycle = 119
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.18
+
+Cycle = 120
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.04
+
+Cycle = 121
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.06°C 
+
+Dew point: 24.04
+
+Cycle = 122
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.22
+
+Cycle = 123
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.31°C 
+
+Dew point: 24.22
+
+Cycle = 124
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.44°C 
+
+Dew point: 24.22
+
+Cycle = 125
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 17.62°C 
+
+Dew point: 24.22
+
+Cycle = 126
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.69°C 
+
+Dew point: 24.22
+
+Cycle = 127
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 17.87°C 
+
+Dew point: 24.22
+
+Cycle = 128
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 18.06°C 
+
+Dew point: 24.14
+
+Cycle = 129
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 18.19°C 
+
+Dew point: 24.14
+
+Cycle = 130
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 18.37°C 
+
+Dew point: 24.16
+
+Cycle = 131
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 18.62°C 
+
+Dew point: 24.16
+
+Cycle = 132
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 18.69°C 
+
+Dew point: 24.16
+
+Cycle = 133
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 18.94°C 
+
+Dew point: 24.16
+
+Cycle = 134
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 19.12°C 
+
+Dew point: 24.28
+
+Cycle = 135
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 19.25°C 
+
+Dew point: 24.28
+
+Cycle = 136
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 19.44°C 
+
+Dew point: 24.16
+
+Cycle = 137
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.30%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 19.62°C 
+
+Dew point: 24.16
+
+Cycle = 138
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 19.81°C 
+
+Dew point: 24.14
+
+Cycle = 139
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 20.00°C 
+
+Dew point: 24.14
+
+Cycle = 140
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 20.19°C 
+
+Dew point: 24.24
+
+Cycle = 141
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.20%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 20.31°C 
+
+Dew point: 24.24
+
+Cycle = 142
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 20.50°C 
+
+Dew point: 24.18
+
+Cycle = 143
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.40%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 20.69°C 
+
+Dew point: 24.18
+
+Cycle = 144
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 20.81°C 
+
+Dew point: 24.24
+
+Cycle = 145
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.00°C 
+
+Dew point: 24.24
+
+Cycle = 146
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.19°C 
+
+Dew point: 24.24
+
+Cycle = 147
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.31°C 
+
+Dew point: 24.24
+
+Cycle = 148
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.44°C 
+
+Dew point: 24.26
+
+Cycle = 149
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.69°C 
+
+DS18B20 #2: Temperature: 21.62°C 
+
+Dew point: 24.26
+
+Cycle = 150
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.69°C 
+
+DS18B20 #2: Temperature: 21.69°C 
+
+Dew point: 24.36
+
+Cycle = 151
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.87°C 
+
+Dew point: 24.36
+
+Cycle = 152
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.69°C 
+
+DS18B20 #2: Temperature: 22.00°C 
+
+Dew point: 24.14
+
+Cycle = 153
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 22.06°C 
+
+Dew point: 24.14
+
+Cycle = 154
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 22.19°C 
+
+Dew point: 24.24
+
+Cycle = 155
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 22.37°C 
+
+Dew point: 24.24
+
+Cycle = 156
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 22.56°C 
+
+Dew point: 24.20
+
+Cycle = 157
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 22.62°C 
+
+Dew point: 24.20
+
+Cycle = 158
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 22.75°C 
+
+Dew point: 24.22
+
+Cycle = 159
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 22.81°C 
+
+Dew point: 24.22
+
+Cycle = 160
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 22.87°C 
+
+Dew point: 24.24
+
+Cycle = 161
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 23.00°C 
+
+Dew point: 24.24
+
+Cycle = 162
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 23.06°C 
+
+Dew point: 24.24
+
+Cycle = 163
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.44°C 
+
+DS18B20 #2: Temperature: 23.06°C 
+
+Dew point: 24.24
+
+Cycle = 164
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.44°C 
+
+DS18B20 #2: Temperature: 22.94°C 
+
+Dew point: 24.28
+
+Cycle = 165
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 22.81°C 
+
+Dew point: 24.28
+
+Cycle = 166
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.31°C 
+
+DS18B20 #2: Temperature: 22.69°C 
+
+Dew point: 24.24
+
+Cycle = 167
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 22.44°C 
+
+Dew point: 24.24
+
+Cycle = 168
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 22.25°C 
+
+Dew point: 24.24
+
+Cycle = 169
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 21.94°C 
+
+Dew point: 24.24
+
+Cycle = 170
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 21.62°C 
+
+Dew point: 24.14
+
+Cycle = 171
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.44°C 
+
+DS18B20 #2: Temperature: 21.31°C 
+
+Dew point: 24.14
+
+Cycle = 172
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 21.00°C 
+
+Dew point: 24.24
+
+Cycle = 173
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 20.69°C 
+
+Dew point: 24.24
+
+Cycle = 174
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.44°C 
+
+DS18B20 #2: Temperature: 20.37°C 
+
+Dew point: 24.24
+
+Cycle = 175
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 20.06°C 
+
+Dew point: 24.24
+
+Cycle = 176
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.56°C 
+
+DS18B20 #2: Temperature: 19.75°C 
+
+Dew point: 24.20
+
+Cycle = 177
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 19.44°C 
+
+Dew point: 24.20
+
+Cycle = 178
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 19.12°C 
+
+Dew point: 24.38
+
+Cycle = 179
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 29.00°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 18.81°C 
+
+Dew point: 24.38
+
+Cycle = 180
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.94°C 
+
+DS18B20 #2: Temperature: 18.50°C 
+
+Dew point: 24.28
+
+Cycle = 181
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 18.19°C 
+
+Dew point: 24.28
+
+Cycle = 182
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 17.87°C 
+
+Dew point: 24.26
+
+Cycle = 183
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.25°C 
+
+DS18B20 #2: Temperature: 17.62°C 
+
+Dew point: 24.26
+
+Cycle = 184
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 17.37°C 
+
+Dew point: 24.26
+
+Cycle = 185
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.26
+
+Cycle = 186
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.63°C 
+
+DS18B20 #2: Temperature: 16.81°C 
+
+Dew point: 24.26
+
+Cycle = 187
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.75°C 
+
+DS18B20 #2: Temperature: 16.69°C 
+
+Dew point: 24.26
+
+Cycle = 188
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.81°C 
+
+DS18B20 #2: Temperature: 16.44°C 
+
+Dew point: 24.26
+
+Cycle = 189
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.94°C 
+
+DS18B20 #2: Temperature: 16.25°C 
+
+Dew point: 24.26
+
+Cycle = 190
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.00°C 
+
+DS18B20 #2: Temperature: 16.06°C 
+
+Dew point: 24.14
+
+Cycle = 191
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.13°C 
+
+DS18B20 #2: Temperature: 15.94°C 
+
+Dew point: 24.14
+
+Cycle = 192
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.06°C 
+
+DS18B20 #2: Temperature: 15.75°C 
+
+Dew point: 24.24
+
+Cycle = 193
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.25°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.24
+
+Cycle = 194
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.20
+
+Cycle = 195
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 15.56°C 
+
+Dew point: 24.20
+
+Cycle = 196
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.24
+
+Cycle = 197
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 15.75°C 
+
+Dew point: 24.24
+
+Cycle = 198
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.56°C 
+
+DS18B20 #2: Temperature: 15.81°C 
+
+Dew point: 24.22
+
+Cycle = 199
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.56°C 
+
+DS18B20 #2: Temperature: 16.06°C 
+
+Dew point: 24.22
+
+Cycle = 200
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.63°C 
+
+DS18B20 #2: Temperature: 16.19°C 
+
+Dew point: 24.26
+
+Cycle = 201
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.63°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.26
+
+Cycle = 202
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.63°C 
+
+DS18B20 #2: Temperature: 16.56°C 
+
+Dew point: 24.26
+
+Cycle = 203
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.63°C 
+
+DS18B20 #2: Temperature: 16.69°C 
+
+Dew point: 24.26
+
+Cycle = 204
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.63°C 
+
+DS18B20 #2: Temperature: 16.87°C 
+
+Dew point: 24.26
+
+Cycle = 205
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.56°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.26
+
+Cycle = 206
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.56°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.16
+
+Cycle = 207
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.16
+
+Cycle = 208
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 17.12°C 
+
+Dew point: 24.14
+
+Cycle = 209
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 17.06°C 
+
+Dew point: 24.14
+
+Cycle = 210
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 17.00°C 
+
+Dew point: 24.24
+
+Cycle = 211
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 16.87°C 
+
+Dew point: 24.24
+
+Cycle = 212
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 16.75°C 
+
+Dew point: 24.14
+
+Cycle = 213
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 16.62°C 
+
+Dew point: 24.14
+
+Cycle = 214
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.25°C 
+
+DS18B20 #2: Temperature: 16.50°C 
+
+Dew point: 24.26
+
+Cycle = 215
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.26
+
+Cycle = 216
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.25°C 
+
+DS18B20 #2: Temperature: 16.25°C 
+
+Dew point: 24.12
+
+Cycle = 217
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.25°C 
+
+DS18B20 #2: Temperature: 16.12°C 
+
+Dew point: 24.12
+
+
+
+Program Begin...
+
+
+
+Program Begin...
+
+Cycle = 0
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.26
+
+Cycle = 1
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.26
+
+Cycle = 2
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 15.19°C 
+
+Dew point: 24.24
+
+Cycle = 3
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 15.25°C 
+
+Dew point: 24.24
+
+Cycle = 4
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 15.31°C 
+
+Dew point: 24.14
+
+Cycle = 5
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 15.44°C 
+
+Dew point: 24.14
+
+Cycle = 6
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 15.63°C 
+
+Dew point: 24.14
+
+Cycle = 7
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 15.75°C 
+
+Dew point: 24.14
+
+Cycle = 8
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 16.00°C 
+
+Dew point: 24.24
+
+Cycle = 9
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.50°C 
+
+DS18B20 #2: Temperature: 16.19°C 
+
+Dew point: 24.24
+
+Cycle = 10
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 16.37°C 
+
+Dew point: 24.14
+
+Cycle = 11
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 16.62°C 
+
+Dew point: 24.14
+
+Cycle = 12
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.44°C 
+
+DS18B20 #2: Temperature: 16.75°C 
+
+Dew point: 24.24
+
+Cycle = 13
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 34.38°C 
+
+DS18B20 #2: Temperature: 16.94°C 
+
+Dew point: 24.24
+
+Cycle = 14
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 17.19°C 
+
+Dew point: 24.14
+
+Cycle = 15
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.31°C 
+
+DS18B20 #2: Temperature: 17.37°C 
+
+Dew point: 24.14
+
+Cycle = 16
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.25°C 
+
+DS18B20 #2: Temperature: 17.62°C 
+
+Dew point: 24.10
+
+Cycle = 17
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.19°C 
+
+DS18B20 #2: Temperature: 17.81°C 
+
+Dew point: 24.10
+
+Cycle = 18
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.13°C 
+
+DS18B20 #2: Temperature: 18.06°C 
+
+Dew point: 24.12
+
+Cycle = 19
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.06°C 
+
+DS18B20 #2: Temperature: 18.25°C 
+
+Dew point: 24.12
+
+Cycle = 20
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 34.00°C 
+
+DS18B20 #2: Temperature: 18.50°C 
+
+Dew point: 24.16
+
+Cycle = 21
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.88°C 
+
+DS18B20 #2: Temperature: 18.75°C 
+
+Dew point: 24.16
+
+Cycle = 22
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.88°C 
+
+DS18B20 #2: Temperature: 18.87°C 
+
+Dew point: 24.10
+
+Cycle = 23
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.81°C 
+
+DS18B20 #2: Temperature: 19.12°C 
+
+Dew point: 24.10
+
+Cycle = 24
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.69°C 
+
+DS18B20 #2: Temperature: 19.25°C 
+
+Dew point: 24.24
+
+Cycle = 25
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.69°C 
+
+DS18B20 #2: Temperature: 19.50°C 
+
+Dew point: 24.24
+
+Cycle = 26
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.56°C 
+
+DS18B20 #2: Temperature: 19.62°C 
+
+Dew point: 24.12
+
+Cycle = 27
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 19.81°C 
+
+Dew point: 24.12
+
+Cycle = 28
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.44°C 
+
+DS18B20 #2: Temperature: 20.00°C 
+
+Dew point: 24.22
+
+Cycle = 29
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.31°C 
+
+DS18B20 #2: Temperature: 20.19°C 
+
+Dew point: 24.22
+
+Cycle = 30
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.19°C 
+
+DS18B20 #2: Temperature: 20.31°C 
+
+Dew point: 24.12
+
+Cycle = 31
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 33.06°C 
+
+DS18B20 #2: Temperature: 20.50°C 
+
+Dew point: 24.12
+
+Cycle = 32
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 20.62°C 
+
+Dew point: 24.26
+
+Cycle = 33
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 33.00°C 
+
+DS18B20 #2: Temperature: 20.81°C 
+
+Dew point: 24.26
+
+Cycle = 34
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.88°C 
+
+DS18B20 #2: Temperature: 20.94°C 
+
+Dew point: 24.16
+
+Cycle = 35
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.81°C 
+
+DS18B20 #2: Temperature: 21.12°C 
+
+Dew point: 24.16
+
+Cycle = 36
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.75°C 
+
+DS18B20 #2: Temperature: 21.25°C 
+
+Dew point: 24.24
+
+Cycle = 37
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.69°C 
+
+DS18B20 #2: Temperature: 21.37°C 
+
+Dew point: 24.24
+
+Cycle = 38
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.63°C 
+
+DS18B20 #2: Temperature: 21.44°C 
+
+Dew point: 24.26
+
+Cycle = 39
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.50°C 
+
+DS18B20 #2: Temperature: 21.62°C 
+
+Dew point: 24.26
+
+Cycle = 40
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 21.75°C 
+
+Dew point: 24.26
+
+Cycle = 41
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.38°C 
+
+DS18B20 #2: Temperature: 21.94°C 
+
+Dew point: 24.26
+
+Cycle = 42
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.31°C 
+
+DS18B20 #2: Temperature: 22.06°C 
+
+Dew point: 24.26
+
+Cycle = 43
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 32.19°C 
+
+DS18B20 #2: Temperature: 22.12°C 
+
+Dew point: 24.26
+
+Cycle = 44
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.13°C 
+
+DS18B20 #2: Temperature: 22.19°C 
+
+Dew point: 24.14
+
+Cycle = 45
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.13°C 
+
+DS18B20 #2: Temperature: 22.37°C 
+
+Dew point: 24.14
+
+Cycle = 46
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 32.00°C 
+
+DS18B20 #2: Temperature: 22.44°C 
+
+Dew point: 24.16
+
+Cycle = 47
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.94°C 
+
+DS18B20 #2: Temperature: 22.56°C 
+
+Dew point: 24.16
+
+Cycle = 48
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.87°C 
+
+DS18B20 #2: Temperature: 22.69°C 
+
+Dew point: 24.26
+
+Cycle = 49
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.81°C 
+
+DS18B20 #2: Temperature: 22.75°C 
+
+Dew point: 24.26
+
+Cycle = 50
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.75°C 
+
+DS18B20 #2: Temperature: 22.87°C 
+
+Dew point: 24.12
+
+Cycle = 51
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.69°C 
+
+DS18B20 #2: Temperature: 22.94°C 
+
+Dew point: 24.12
+
+Cycle = 52
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.62°C 
+
+DS18B20 #2: Temperature: 23.00°C 
+
+Dew point: 24.14
+
+Cycle = 53
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.50°C 
+
+DS18B20 #2: Temperature: 23.12°C 
+
+Dew point: 24.14
+
+Cycle = 54
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.50°C 
+
+DS18B20 #2: Temperature: 23.19°C 
+
+Dew point: 24.12
+
+Cycle = 55
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.44°C 
+
+DS18B20 #2: Temperature: 23.19°C 
+
+Dew point: 24.12
+
+Cycle = 56
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.37°C 
+
+DS18B20 #2: Temperature: 23.25°C 
+
+Dew point: 24.22
+
+Cycle = 57
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.25°C 
+
+DS18B20 #2: Temperature: 23.44°C 
+
+Dew point: 24.22
+
+Cycle = 58
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 23.44°C 
+
+Dew point: 24.10
+
+Cycle = 59
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 23.50°C 
+
+Dew point: 24.10
+
+Cycle = 60
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.19°C 
+
+DS18B20 #2: Temperature: 23.50°C 
+
+Dew point: 24.26
+
+Cycle = 61
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 31.12°C 
+
+DS18B20 #2: Temperature: 23.56°C 
+
+Dew point: 24.26
+
+Cycle = 62
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 31.06°C 
+
+DS18B20 #2: Temperature: 23.62°C 
+
+Dew point: 24.16
+
+Cycle = 63
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.94°C 
+
+DS18B20 #2: Temperature: 23.75°C 
+
+Dew point: 24.16
+
+Cycle = 64
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.94°C 
+
+DS18B20 #2: Temperature: 23.69°C 
+
+Dew point: 24.24
+
+Cycle = 65
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.87°C 
+
+DS18B20 #2: Temperature: 23.81°C 
+
+Dew point: 24.24
+
+Cycle = 66
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.87°C 
+
+DS18B20 #2: Temperature: 23.81°C 
+
+Dew point: 24.14
+
+Cycle = 67
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.81°C 
+
+DS18B20 #2: Temperature: 23.87°C 
+
+Dew point: 24.14
+
+Cycle = 68
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.75°C 
+
+DS18B20 #2: Temperature: 23.94°C 
+
+Dew point: 24.20
+
+Cycle = 69
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.50%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.75°C 
+
+DS18B20 #2: Temperature: 23.94°C 
+
+Dew point: 24.20
+
+Cycle = 70
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.62°C 
+
+DS18B20 #2: Temperature: 24.00°C 
+
+Dew point: 24.16
+
+Cycle = 71
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.69°C 
+
+DS18B20 #2: Temperature: 24.06°C 
+
+Dew point: 24.16
+
+Cycle = 72
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.56°C 
+
+DS18B20 #2: Temperature: 24.12°C 
+
+Dew point: 24.16
+
+Cycle = 73
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.56°C 
+
+DS18B20 #2: Temperature: 24.12°C 
+
+Dew point: 24.16
+
+Cycle = 74
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.50°C 
+
+DS18B20 #2: Temperature: 24.12°C 
+
+Dew point: 24.28
+
+Cycle = 75
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.44°C 
+
+DS18B20 #2: Temperature: 24.19°C 
+
+Dew point: 24.28
+
+Cycle = 76
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.50°C 
+
+DS18B20 #2: Temperature: 24.25°C 
+
+Dew point: 24.30
+
+Cycle = 77
+
+Peltier = OFF
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 77.00%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.37°C 
+
+DS18B20 #2: Temperature: 24.31°C 
+
+Dew point: 24.30
+
+Cycle = 78
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 24.31°C 
+
+Dew point: 24.16
+
+Cycle = 79
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.37°C 
+
+DS18B20 #2: Temperature: 24.31°C 
+
+Dew point: 24.16
+
+Cycle = 80
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 24.31°C 
+
+Dew point: 24.12
+
+Cycle = 81
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 24.25°C 
+
+Dew point: 24.12
+
+Cycle = 82
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 24.12°C 
+
+Dew point: 24.14
+
+Cycle = 83
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.19°C 
+
+DS18B20 #2: Temperature: 23.94°C 
+
+Dew point: 24.14
+
+Cycle = 84
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.25°C 
+
+DS18B20 #2: Temperature: 23.75°C 
+
+Dew point: 24.14
+
+Cycle = 85
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.70%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.12°C 
+
+DS18B20 #2: Temperature: 23.44°C 
+
+Dew point: 24.14
+
+Cycle = 86
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.19°C 
+
+DS18B20 #2: Temperature: 23.12°C 
+
+Dew point: 24.22
+
+Cycle = 87
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.19°C 
+
+DS18B20 #2: Temperature: 22.81°C 
+
+Dew point: 24.22
+
+Cycle = 88
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.19°C 
+
+DS18B20 #2: Temperature: 22.50°C 
+
+Dew point: 24.22
+
+Cycle = 89
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.60%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.25°C 
+
+DS18B20 #2: Temperature: 22.12°C 
+
+Dew point: 24.22
+
+Cycle = 90
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.25°C 
+
+DS18B20 #2: Temperature: 21.81°C 
+
+Dew point: 24.16
+
+Cycle = 91
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 21.44°C 
+
+Dew point: 24.16
+
+Cycle = 92
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.31°C 
+
+DS18B20 #2: Temperature: 21.12°C 
+
+Dew point: 24.28
+
+Cycle = 93
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.44°C 
+
+DS18B20 #2: Temperature: 20.81°C 
+
+Dew point: 24.28
+
+Cycle = 94
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.44°C 
+
+DS18B20 #2: Temperature: 20.44°C 
+
+Dew point: 24.26
+
+Cycle = 95
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.80%  Temperature: 28.90°C 
+
+DS18B20 #1: Temperature: 30.50°C 
+
+DS18B20 #2: Temperature: 20.06°C 
+
+Dew point: 24.26
+
+Cycle = 96
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.56°C 
+
+DS18B20 #2: Temperature: 19.75°C 
+
+Dew point: 24.18
+
+Cycle = 97
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.62°C 
+
+DS18B20 #2: Temperature: 19.44°C 
+
+Dew point: 24.18
+
+Cycle = 98
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.69°C 
+
+DS18B20 #2: Temperature: 19.06°C 
+
+Dew point: 24.18
+
+Cycle = 99
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.81°C 
+
+DS18B20 #2: Temperature: 18.75°C 
+
+Dew point: 24.18
+
+Cycle = 100
+
+Peltier = ON
+
+HOT FAN PWM (0 to 255) = 255
+
+COLD FAN PWM (0 to 255) = 0
+
+DTH22: Humidity: 76.90%  Temperature: 28.80°C 
+
+DS18B20 #1: Temperature: 30.87°C 
+
+DS18B20 #2: Temperature: 18.44°C 
+
+Dew point: 24.18
+
+
